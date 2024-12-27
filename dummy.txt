@@ -1,1 +1,3 @@
-this is test file
+panlnk http://delfi.ee 
+panlnk http://delfi.ee
+panlnk http://delfi.ee
